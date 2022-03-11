@@ -1,4 +1,4 @@
-### Hi there 👋
+
 <h3 align="center">A Software Engineer from Turkey</h3>
 
 - 🌱 I’m currently learning **FLUTTER**
