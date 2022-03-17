@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Bedirhan</h1>
-<h3 align="center">A Software Engineer from Turkey</h3>
+<h1 align="center">A Software Engineer from Turkey</h1>
+
 
 - 🌱 I’m currently learning **.NET, FLUTTER, REACT**
 
