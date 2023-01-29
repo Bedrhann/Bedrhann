@@ -1,7 +1,7 @@
 <h1 align="center">A Software Engineer from Turkey</h1>
 
 
-- 🌱 I’m currently learning **.NET **
+- 🌱 I’m working with .Net as Backend Developer 
 
 - 📫 How to reach me **Bedirhan_98@outlook.com**
 
