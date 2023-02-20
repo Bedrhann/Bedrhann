@@ -41,8 +41,7 @@ Hi, I'm Bedirhan Şık!
       </div>
 
 </p>
-
-## <p align = "center">My Skill Set</p>    
+  
 
 <table><tr><td valign="top" width="33%">
 
