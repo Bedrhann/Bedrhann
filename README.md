@@ -1,5 +1,5 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 30%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="height: 10%; width:100% " />
 </div>  
 <h1 align="center">
 Hi, I'm Bedirhan Şık!
