@@ -42,7 +42,7 @@ Hi, I'm Bedirhan Şık!
 
 </p>
 
-## My Skill Set  
+## <p align = "center">My Skill Set</p>    
 
 <table><tr><td valign="top" width="33%">
 
@@ -60,7 +60,7 @@ Hi, I'm Bedirhan Şık!
 
 
 
-### Backend  
+### <p align = "center">Backend</p>  
 <div align="center">  
 <a href="https://www.rabbitmq.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="50" /></a>  
 <a href="https://dotnet.microsoft.com/download" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="50" /></a>  
@@ -76,7 +76,7 @@ Hi, I'm Bedirhan Şık!
 
 
 
-### DevOps  
+### <p align = "center">Devops</p>   
 <div align="center">  
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 <a href="https://azure.microsoft.com/en-in/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="50" /></a>  
