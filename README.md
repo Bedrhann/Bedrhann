@@ -10,16 +10,19 @@ Hi, I'm Bedirhan Şık!
 		<img src="https://readme-typing-svg.herokuapp.com?lines=Web+Development;Lifelong+Learner;.NET+Core;React;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
+
 <hr>
+
 <pre>
 💻 I’m working with .Net as Backend Developer
+
 📚 I have a Master Degree in Computer Engineer
+
 🌟 Main languages: C#, JavaScript
+
 📝 I'm learning React
+
 ⚡ Fun fact I like beautiful things(?)
-
-
-
 </pre>
 <hr>
 
