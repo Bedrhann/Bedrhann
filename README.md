@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi, I'm Bedirhan ŞıK!
+Hi, I'm Bedirhan Şık!
 	<a href="https://github.com/Bedrhann" target="_self">
 		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
 	</a>
@@ -12,15 +12,18 @@ Hi, I'm Bedirhan ŞıK!
 </p>
 <hr>
 <pre>
-💻 I am a self taught Software Developer and a Machine Learning Developer
+💻 I’m working with .Net as Backend Developer
 
-📚 I have a Master Degree in Civil Engineering from Middle East Technical University (METU)
+📚 I have a Master Degree in Computer Engineer
 
-📝 I have a strong interest in Software Development and Data Science
+🌟 Main languages: C#, JavaScript
 
-🌟 Main languages: C#, Python
+📝 I'm learning React
 
-🤝 I’m available for freelancing.
+⚡ Fun fact I like beautiful things(?)
+
+
+
 </pre>
 <hr>
 
