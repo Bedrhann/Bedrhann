@@ -1,6 +1,3 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="height: 10px; width:100px " />
-</div>  
 <h1 align="center">
 Hi, I'm Bedirhan Şık!
 	<a href="https://github.com/Bedrhann" target="_self">
