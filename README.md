@@ -1,16 +1,43 @@
-<h1 align="center">A Software Engineer from Turkey</h1>
+<h1 align="center">
+Hi, I'm Bedirhan Şık!
+	<a href="https://github.com/Bedrhann" target="_self">
+		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+	</a>
+</h1>
+<br/>
+<p align="center">
+	<a href="https://github.com/Bedrhann">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Lifelong+Learner;.NET+Enthusiast;DS%20|%20AI%20|%20ML%20Enthusiastic;Always%20learning%20new%20things&center=true&width=380&height=45">
+	</a>
+</p>
+<hr>
+<pre>
+💻 I am a self taught Software Developer and a Machine Learning Developer
 
+📚 I have a Master Degree in Civil Engineering from Middle East Technical University (METU)
 
-- 🌱 I’m working with .Net as Backend Developer 
+📝 I have a strong interest in Software Development and Data Science
 
-- 📫 How to reach me **Bedirhan_98@outlook.com**
+🌟 Main languages: C#, Python
 
-- ⚡ Fun fact **I like beautiful things(?)**
+🤝 I’m available for freelancing.
+</pre>
+<hr>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/bedirhansık" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bedirhansık" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/bedirhan_98" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="bedirhan_98" height="30" width="40" /></a>
+<br/>
+<h3 align="center" > <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30" height="30" style="margin-right: 10px;">Connect with me 📫 </h3>
+
+<p align="center">
+
+ <div align="center"  class="icons-social" style="margin-left: 10px;">
+        <a style="margin-left: 10px;"  target="_blank" href="[https://www.linkedin.com/in/berkdemirciogluu/](https://www.linkedin.com/in/bedirhann/)">
+			<img src="https://img.icons8.com/doodle/40/000000/linkedin--v2.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="[https://github.com/berkdemirciogluu](https://github.com/Bedrhann)">
+		<img src="https://img.icons8.com/doodle/40/000000/github--v1.png"></a>
+        <a style="margin-left: 10px;" target="_blank" href="mailto:Bedirhan_98@outlook.com">
+		<img src="https://img.icons8.com/doodle/40/000000/gmail--v1.png"></a>
+      </div>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
