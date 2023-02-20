@@ -1,9 +1,4 @@
-<h1 align="center">
-Hi, I'm Bedirhan Şık!
-	<a href="https://github.com/Bedrhann" target="_self">
-		<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
-	</a>
-</h1>
+<h1 align="center">A Software Engineer from Turkey</h1>
 <br/>
 <p align="center">
 	<a href="https://github.com/Bedrhann">
