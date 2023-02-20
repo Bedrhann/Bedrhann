@@ -41,7 +41,8 @@ Hi, I'm Bedirhan Şık!
       </div>
 
 </p>
-  
+
+  <br/>
 
 <table><tr><td valign="top" width="33%">
 
