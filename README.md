@@ -7,8 +7,7 @@ Hi, I'm Bedirhan Şık!
 <br/>
 <p align="center">
 	<a href="https://github.com/Bedrhann">
-		<img src="https://readme-typing-svg.herokuapp.com?
-	lines=Lifelong+Learner;Web+Development;.NET+Core;React;Always%20learning%20new%20things&center=true&width=380&height=45">
+		<img src="https://readme-typing-svg.herokuapp.com?lines=Lifelong+Learner;Web+Development;.NET+Core;React;Always%20learning%20new%20things&center=true&width=380&height=45">
 	</a>
 </p>
 <hr>
