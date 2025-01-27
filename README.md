@@ -14,13 +14,13 @@ Hi, I'm Bedirhan Şık!
 <hr>
 
 <pre>
-💻 I’m working with .Net as Backend Developer
+💻 I’m working with .Net and Django as Backend Developer
 
 📚 I have a Master Degree in Computer Engineer
 
-🌟 Main languages: C#, JavaScript
+🌟 Main languages: C#, Python, JavaScript
 
-📝 I'm learning React
+📝 Additionally, I can develop with React.
 
 ⚡ Fun fact I like beautiful things(?)
 </pre>
